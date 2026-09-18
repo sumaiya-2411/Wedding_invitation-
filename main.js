@@ -6,7 +6,7 @@
   "use strict";
 
   var reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  var WEDDING = new Date("2026-10-16T14:30:00+02:00");
+  var WEDDING = new Date("2026-10-16T14:00:00+06:00");
 
   /* ---------------------------------------------------------------------------
      Petals: drifting rose petals in the ambient layer
